@@ -1,0 +1,24 @@
+.home{
+    
+        
+  
+    right: 100px;
+    background-image: linear-gradient(to right,rgb(26, 175, 163),violet); 
+    color:black;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 95%;
+    width: 45%;
+    position: absolute;
+    overflow: auto;
+    font-style: italic;
+    font-size: larger;
+  ;
+    
+    
+  
+  }
+  img{
+    padding-left: 50px;
+  }
+  
